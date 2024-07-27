@@ -8,11 +8,15 @@
 
 ## Motivation
 
-Well, I had a beautiful name for a project that would be related to creativity, or I couldn’t think of anything better how to write a text editor that would give inspiration and who knows what it could develop into..
+Well, I had a beautiful name for a project that would be related to creativity. 
+So I couldn’t think of anything better how to write a text editor that would give inspiration. 
 
-## How I see it at the moment
+## Info
 
-## Tech Stack
+Aroused is online redactor with vim bindings and good support latin keyboard.
+Work on GitHub Pages. Link: `https://revellved.github.io/Aroused`
+
+## Stack
 
 - TypeScript 
 - Many cups of coffee
