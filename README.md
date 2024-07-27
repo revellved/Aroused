@@ -1,7 +1,7 @@
 # Aroused
 
 <div align="center">
-    <img alt="Aroused" src="./assets/aroused_logo.png" width="50%">
+    <img alt="Aroused" src="./assets/Aroused.png" width="50%">
 </div>
 
 > Your Personal Muse & Creative Table
